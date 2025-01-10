@@ -1,6 +1,5 @@
 <h1>
-  <span class="headline">Vector Databases /span>
-  <span class="subhead">RAG</span>
+  <span class="headline">RAG</span>
 </h1>
 
 ### Learning Objective:
